@@ -1,4 +1,4 @@
-# Excel Assignment 2 – Data Cleaning 
+# Data Cleaning 
 
 ## Project Overview
 Performed data cleaning and preparation using Microsoft Excel to improve data quality and consistency for analysis.
